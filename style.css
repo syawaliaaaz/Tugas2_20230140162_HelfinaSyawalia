@@ -1,0 +1,41 @@
+body {
+    background-color: #faebd7; /* Warna latar belakang krem */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 10px gray;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+.image-container img {
+    width: 80%;
+    display: block;
+    margin: 10px auto;
+}
+
+h3 {
+    color: blue;
+    text-align: left;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+p {
+    text-align: justify;
+    font-size: 14px;
+    padding: 10px;
+    margin: 10px 20px;
+}
